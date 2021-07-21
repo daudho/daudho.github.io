@@ -1,0 +1,138 @@
+{
+    "basic_info": {
+      "description_header": "Translation to Malay coming soon!",
+      "description": "",
+      "section_name": {
+        "about": "Tentang Saya",
+        "projects": "Portfolio",
+        "skills": "Kemahiran",
+        "experience": "Pengalaman Kerja"
+      }
+    },
+    "projects": [
+      {
+        "title": "",
+        "startDate": "",
+        "description": "",
+        "images": [
+          "images/portfolio/crowdfund/p1.png",
+          "images/portfolio/crowdfund/p2.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-wordpress-plain",
+            "name": "WordPress"
+          }
+        ]
+      },
+      {
+        "title": "",
+        "startDate": "",
+        "description": "",
+        "images": [
+          "images/portfolio/globalux/p2.png",
+          "images/portfolio/globalux/p1.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-wordpress-plain",
+            "name": "WordPress"
+          }
+        ]
+      },
+      {
+        "title": "",
+        "startDate": "",
+        "description": "",
+        "images": [
+          "images/portfolio/wd/p1.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Tinkerve LLP",
+        "title": "Full-stack Web Developer Intern",
+        "years": "06.2021 - present",
+        "mainTech": [
+          "React 17"
+        ],
+        "technologies": [
+          "REST API",
+          "ReactJS",
+          "TypeScript",
+          "JavaScript",
+          "ExpressJS",
+          "JEST",
+          "NodeJS",
+          "Sass",
+          "Mocha",
+          "MongoDB"
+        ]
+      },
+      {
+        "company": "Globalux Property Sdn. Bhd.",
+        "title": "Project Consultant cum Website Developer",
+        "years": "05.2020 - 10.2020",
+        "mainTech": [
+          "Bootstrap"
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS3",
+          "JavaScript",
+          "JQuery",
+          "Bootstrap"
+        ]
+      }
+    ]
+  }
